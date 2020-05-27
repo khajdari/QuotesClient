@@ -3,7 +3,7 @@ import java.net.*;
 
 public class QuotesClient {
 
-	private static String SERVER_HOST = "localhost";
+	private static String SERVER_HOST = "ec2-54-87-216-48.compute-1.amazonaws.com";
 	private static int SERVER_PORT = 10001;
 
 	public static void main(String[] args) {
